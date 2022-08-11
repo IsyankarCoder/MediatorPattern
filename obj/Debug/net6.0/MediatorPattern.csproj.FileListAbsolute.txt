@@ -1,0 +1,15 @@
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/bin/Debug/net6.0/MediatorPattern
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/bin/Debug/net6.0/MediatorPattern.deps.json
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/bin/Debug/net6.0/MediatorPattern.runtimeconfig.json
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/bin/Debug/net6.0/MediatorPattern.dll
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/bin/Debug/net6.0/MediatorPattern.pdb
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/obj/Debug/net6.0/MediatorPattern.csproj.AssemblyReference.cache
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/obj/Debug/net6.0/MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/obj/Debug/net6.0/MediatorPattern.AssemblyInfoInputs.cache
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/obj/Debug/net6.0/MediatorPattern.AssemblyInfo.cs
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/obj/Debug/net6.0/MediatorPattern.csproj.CoreCompileInputs.cache
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/obj/Debug/net6.0/MediatorPattern.dll
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/obj/Debug/net6.0/refint/MediatorPattern.dll
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/obj/Debug/net6.0/MediatorPattern.pdb
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/obj/Debug/net6.0/MediatorPattern.genruntimeconfig.cache
+/home/vq010/Desktop/Projects/NetDesignPattern/DotnetTutorials/MediatorPattern/MediatorPattern/obj/Debug/net6.0/ref/MediatorPattern.dll

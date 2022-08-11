@@ -1,0 +1,4 @@
+public interface  IFacebookGroupMediatorInterface{
+    void SendMessage(string msg,User user);
+    void RegisterUser(User user);
+}
